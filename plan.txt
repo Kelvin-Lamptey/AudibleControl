@@ -1,0 +1,13 @@
+
+what i want
+  listen to my voice
+    use voice recognition like google's speech to text or openai's whisper
+    (accurate but fast)
+  intrepret my intent with the help of llms
+    I will be using openrouter's api
+  use the result to control items like LEDs, and and LCD display or any other device
+    With serial connection to an Arduino board(UNO)
+
+Simple interface, maybe some nice icon that bubbles or kinda reacts when things are happening
+a place to show the voice recognition's output text
+a place to show what the ai has decided to do
