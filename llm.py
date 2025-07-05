@@ -5,7 +5,6 @@ import dotenv
 dotenv.load_dotenv()
 #cognitivecomputations/dolphin3.0-mistral-24b:free
 # MODEL = "deepseek/deepseek-r1-0528-qwen3-8b:free"
-MODEL = "google/gemma-3n-e4b-it:free"
 MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 
 client = OpenAI(
